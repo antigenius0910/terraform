@@ -81,7 +81,7 @@ instâncias na nuvem. Para saber mais sobre o Terraform, acesse:
 NOTE: Developed using Terraform 0.11.x syntax.
 
 1. This directory contains the files:<br>
-   * ``template.tf``      => that defines the general settings.<br>
+   * ``main.tf``      => that defines the general settings.<br>
    * ``variables.tf``     => where you can define the values of the variables
 used by ``main.tf``.<br>
    * ``terraform.tfvars`` => where you can customize default values
